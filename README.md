@@ -30,7 +30,8 @@ But I believe that good ideas — especially those that explore existence and aw
 This concept is offered freely to scientists, thinkers, or institutions who might want to explore it, test it, or build upon it.
 I ask only for acknowledgment if it ever becomes useful in real research or public conversation.
 
-Final Thought
+Final Thought:
+
 If we can build a small universe in a lab — one where heat mimics gravity, and molecules evolve differently based on their position in space —
 ...what does that say about the universe we live in?
 
